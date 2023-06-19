@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_display_text">60sp</dimen>
+    <dimen name="size_btn_text">32sp</dimen>
+    <dimen name="top_display_padding">20dp</dimen>
+    <dimen name="left_display_padding">5dp</dimen>
+    <dimen name="top_button_padding">10dp</dimen>
+    <dimen name="left_button_padding">10dp</dimen>
+</resources>
