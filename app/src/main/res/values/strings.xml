@@ -14,7 +14,7 @@
     <string name="btn_2">2</string>
     <string name="btn_3">3</string>
     <string name="btn_0">0</string>
-    <string name="btn_123456789">123456789</string>
+    <string name="display">0</string>
     <string name="btn_dot">.</string>
     <string name="btn_multiplication">*</string>
     <string name="btn_plus">+</string>
